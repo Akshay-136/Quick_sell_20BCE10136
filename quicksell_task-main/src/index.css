@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', 'Arial', sans-serif; /* Update with your preferred font stack */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Fira Code', 'Courier New', monospace; /* Update with your preferred font stack */
+}
